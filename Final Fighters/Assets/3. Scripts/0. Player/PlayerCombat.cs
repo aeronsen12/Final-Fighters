@@ -10,6 +10,8 @@ public class PlayerCombat : MonoBehaviour
 
     public LayerMask enemyLayer;
 
+    public int test;
+
     public bool isGuarding;
 
     PlayerController controller;
